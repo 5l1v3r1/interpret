@@ -15,7 +15,7 @@ extern "C" {
 
 
 // TODO test that disabling this leads to equivalent or better results on a lot of data, then remove the sections that use it
-#define LEGACY_COMPATIBILITY
+//#define LEGACY_COMPATIBILITY
 #ifdef LEGACY_COMPATIBILITY
 #define TODO_REMOVE_THIS_DEFAULT_cInstancesRequiredForChildSplitMin  0
 #else // LEGACY_COMPATIBILITY
