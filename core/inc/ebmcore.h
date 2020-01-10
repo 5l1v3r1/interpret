@@ -19,7 +19,7 @@ extern "C" {
 #ifdef LEGACY_COMPATIBILITY
 #define TODO_REMOVE_THIS_DEFAULT_cInstancesRequiredForChildSplitMin  0
 #else // LEGACY_COMPATIBILITY
-#define TODO_REMOVE_THIS_DEFAULT_cInstancesRequiredForChildSplitMin  10
+#define TODO_REMOVE_THIS_DEFAULT_cInstancesRequiredForChildSplitMin  1
 #endif // LEGACY_COMPATIBILITY
 
 
